@@ -232,7 +232,6 @@ a {
 }
 
 .content-section {
-	text-align: center; /*this is by castleliang*/
     margin-top: 100px;
     padding-top: 100px;
     @media(min-width:767px) {
@@ -241,7 +240,6 @@ a {
     }
     /* Added in { Personal } for responsive images in posts and section contents */
     img {
-	
         display: block;
         max-width: 100%;
         height: auto;
