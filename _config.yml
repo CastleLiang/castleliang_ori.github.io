@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Yuxuan Liang "
+title: "Yuxuan Liang"
+description: "Blog and website of Yuxuan Liang , blogging mainly for tech. Opinions expressed are mine."
+keywords: "Yuxuan, Liang, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/misty-forest.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,9 +56,10 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "That's why I am here"
+  - text: "What you see is what you get"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/timeline/me.jpg"
 
 ##############################
 # Color the browser elements #
@@ -102,7 +103,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "Castleliang"
 
 syntax-highlight: True
 
@@ -111,22 +112,25 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/ms.png"
+    date: "December 2015 - Today"
+    description: "<b>Microsoft research asia</b> <br/>Research intern <br/>in Urban Computing Group"
+  - image: "/img/timeline/xidian.png"
+    date: "September 2012 - June 2016"
+    description: "<b>Xidian University</b><br/>Undergraduate student<br/>major in <b>Computer Science</b>"
+  - image: "/img/timeline/changjun.png"
+    date: "September 2009 - June 2012"
+    description: "<b>Changjun High School</b><br/>Senior high student<br/>in experimental class"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/me.jpg"
 
 ###########
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "castleliang@163.com"
 
 ################
 # Author Blurb #
@@ -136,7 +140,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Yuxuan Liang is an awesome person. He lives in Beijing, China, where he works as a research intern in Microsoft Research Asia"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -149,9 +153,9 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/CastleLiang"
+  - title: "weibo"
+    url: "http://weibo.com/"
   - title: "rss"
     url: "/feed.xml"
 
