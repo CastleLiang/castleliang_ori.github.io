@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "That's why I am here"
   - text: "What you see is what you get"
 
-me-img: "/img/timeline/me.jpg"
+me-img: "/img/me.jpg"
 
 ##############################
 # Color the browser elements #
@@ -124,7 +124,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/me.jpg"
+timeline-img: "/img/me.jpg"
 
 ###########
 # Contact #
