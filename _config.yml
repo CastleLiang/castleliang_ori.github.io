@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "That's why I am here"
   - text: "What you see is what you get"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/me.png"
 
 ##############################
 # Color the browser elements #
