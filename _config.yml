@@ -33,13 +33,13 @@ author: "Yuxuan Liang "
 title: "Yuxuan Liang"
 description: "Blog and website of Yuxuan Liang , blogging mainly for tech. Opinions expressed are mine."
 keywords: "Yuxuan, Liang, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/boy.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/the-avengers.ico"
 
 background-img: "../img/misty-forest.jpg"
 
@@ -55,9 +55,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "That's why I am here"
-  - text: "What you see is what you get"
+  - text: "From small beginnings comes great things."
+  - text: "It is never too late to learn."
+  - text: "Nothing down, nothing up."
+  - text: "A bosom friend afar brings a distant land near."
+  - text: "能享受最好的，能承受最坏的。"
+
 
 me-img: "/img/me.png"
 
@@ -130,7 +133,8 @@ timeline-img: "/img/me.png"
 # Contact #
 ###########
 
-email: "castleliang@163.com"
+email: "castleliang0617@gmail.com"
+
 
 ################
 # Author Blurb #
@@ -140,8 +144,8 @@ email: "castleliang@163.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yuxuan Liang is an awesome person. He lives in Beijing, China, where he works as a research intern in Microsoft Research Asia"
-author_blurb_image: "/img/author.png"
+author_blurb: "Yuxuan Liang lives in Beijing, China, where he works as a research intern in Microsoft Research Asia"
+author_blurb_image: "/img/shulan.gif"
 
 ##################
 # Social Buttons #
@@ -153,7 +157,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/CastleLiang"
+    url: "https://github.com/"
   - title: "weibo"
     url: "http://weibo.com/"
   - title: "rss"
