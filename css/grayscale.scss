@@ -52,7 +52,7 @@ p {
     font-size: 18px;
     line-height: 1.5;
     @media(min-width:768px) {
-        margin: 0 0 35px;
+        margin: 0 0 15px;  /* change the margin between paragraphs */
         font-size: 20px;
         line-height: 1.6;
     }
@@ -232,7 +232,7 @@ a {
 }
 
 .content-section {
-	text-align: center; /*this is by castleliang*/
+	text-align: left; /*this is by castleliang*/
     margin-top: 100px;
     padding-top: 100px;
     @media(min-width:767px) {
@@ -248,15 +248,22 @@ a {
         margin: 0 auto;
         border: 1px solid $font-color;
     }
+	
+	/* Added by Castleliang */
+	h1, h2, h3, h4, h5, h6{
+		text-align: center;
+	}
+	
+	
     /* Added in { Personal } */
     ul,
     ol {
-        text-align: center;
-        margin: 0 0 25px;
+        text-align: left;
         font-size: 18px;
         line-height: 1.5;
-        list-style-position: inside;
+        /* list-style-position: inside; */
     }
+	
     pre {
       padding: 0;
       > code {
@@ -446,4 +453,12 @@ body {
 
 .fourofour {
   border: 1px solid $primary-color !important;
+}
+
+.timeline h4{
+text-align: left/* By Castleliang */
+}
+
+.contact a{
+text-align: center
 }
