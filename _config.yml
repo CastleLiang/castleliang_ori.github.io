@@ -144,7 +144,7 @@ email: ""
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yuxuan Liang lives in Beijing, China, where he works as a research intern in Microsoft Research Asia"
+author_blurb: "Yuxuan Liang lives in Beijing, China, where he works as a research intern at Microsoft Research Asia"
 author_blurb_image: "/img/shulan.gif"
 
 ##################
