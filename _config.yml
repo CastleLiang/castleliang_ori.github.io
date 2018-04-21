@@ -14,7 +14,7 @@ style: styles-6
 #Profile information
 name: Yuxuan Liang
 tagline: AI Explorer
-pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: yuxliang@outlook.com
