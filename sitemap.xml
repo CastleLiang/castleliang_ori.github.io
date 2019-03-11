@@ -4,7 +4,23 @@
     
     <url>
     
-      <loc>/publication/ijcai-18/</loc>
+      <loc>https://yuxuanliang.com/publication/ijcnn-19/</loc>
+      <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/publication/arxiv-19/</loc>
+      <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/publication/ijcai-18/</loc>
       <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +28,7 @@
     
     <url>
     
-      <loc>/publication/arxiv-18/</loc>
+      <loc>https://yuxuanliang.com/publication/arxiv-18/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +36,7 @@
     
     <url>
     
-      <loc>/publication/gis-17/</loc>
+      <loc>https://yuxuanliang.com/publication/gis-17/</loc>
       <lastmod>2017-11-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -28,7 +44,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://yuxuanliang.com/post/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -36,7 +52,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://yuxuanliang.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -44,7 +60,15 @@
     
     <url>
     
-      <loc>/publication/ijcai-16/</loc>
+      <loc>https://yuxuanliang.com/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/publication/ijcai-16/</loc>
       <lastmod>2016-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +76,7 @@
     
     <url>
     
-      <loc>/publication/arxiv-16/</loc>
+      <loc>https://yuxuanliang.com/publication/arxiv-16/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -60,7 +84,25 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
+      <loc>https://yuxuanliang.com/publication_types/1/</loc>
+      <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/publication_types/3/</loc>
+      <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/attention/</loc>
       <lastmod>2018-07-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -69,7 +111,42 @@
     
     <url>
     
-      <loc>/publication_types/3/</loc>
+      <loc>https://yuxuanliang.com/tags/cnn/</loc>
+      <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/deep-learning/</loc>
+      <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/generative/</loc>
+      <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/hypernet/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -78,7 +155,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://yuxuanliang.com/tags/mtl/</loc>
+      <lastmod>2016-07-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -86,7 +164,52 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://yuxuanliang.com/tags/mvl/</loc>
+      <lastmod>2016-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/multi-armed-bandit/</loc>
+      <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/publication_types/</loc>
+      <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/st-data/</loc>
+      <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/super-resolution/</loc>
+      <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/tags/</loc>
       <lastmod>2018-07-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -95,24 +218,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
+      <loc>https://yuxuanliang.com/</loc>
       <lastmod>2017-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>

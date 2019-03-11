@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Yuxuan Liang</title>
-    <link>/publication_types/3/</link>
+    <link>https://yuxuanliang.com/publication_types/3/</link>
     <description>Recent content in 3 on Yuxuan Liang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuxuanliang.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>UrbanFM: Inferring Fine-Grained Urban Flows</title>
+      <link>https://yuxuanliang.com/publication/arxiv-19/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/arxiv-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HyperST-Net: Hypernetworks for Spatio-Temporal Forecasting</title>
-      <link>/publication/arxiv-18/</link>
+      <link>https://yuxuanliang.com/publication/arxiv-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/arxiv-18/</guid>
+      <guid>https://yuxuanliang.com/publication/arxiv-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Urban Water Quality with Ubiquitous Data</title>
-      <link>/publication/arxiv-16/</link>
+      <link>https://yuxuanliang.com/publication/arxiv-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/arxiv-16/</guid>
+      <guid>https://yuxuanliang.com/publication/arxiv-16/</guid>
       <description></description>
     </item>
     

@@ -2,58 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Yuxuan Liang</title>
-    <link>/publication/</link>
+    <link>https://yuxuanliang.com/publication/</link>
     <description>Recent content in Publications on Yuxuan Liang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuxuanliang.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>MOR-LinUCB: A Multi-Objective andContext-Aware Ranking Approach</title>
+      <link>https://yuxuanliang.com/publication/ijcnn-19/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/ijcnn-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UrbanFM: Inferring Fine-Grained Urban Flows</title>
+      <link>https://yuxuanliang.com/publication/arxiv-19/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/arxiv-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction</title>
-      <link>/publication/ijcai-18/</link>
+      <link>https://yuxuanliang.com/publication/ijcai-18/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ijcai-18/</guid>
+      <guid>https://yuxuanliang.com/publication/ijcai-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HyperST-Net: Hypernetworks for Spatio-Temporal Forecasting</title>
-      <link>/publication/arxiv-18/</link>
+      <link>https://yuxuanliang.com/publication/arxiv-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/arxiv-18/</guid>
+      <guid>https://yuxuanliang.com/publication/arxiv-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring Traffic Cascading Patterns</title>
-      <link>/publication/gis-17/</link>
+      <link>https://yuxuanliang.com/publication/gis-17/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/gis-17/</guid>
+      <guid>https://yuxuanliang.com/publication/gis-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Water Quality Prediction based on Multi-task Multi-view Learning</title>
-      <link>/publication/ijcai-16/</link>
+      <link>https://yuxuanliang.com/publication/ijcai-16/</link>
       <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ijcai-16/</guid>
+      <guid>https://yuxuanliang.com/publication/ijcai-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Urban Water Quality with Ubiquitous Data</title>
-      <link>/publication/arxiv-16/</link>
+      <link>https://yuxuanliang.com/publication/arxiv-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/arxiv-16/</guid>
+      <guid>https://yuxuanliang.com/publication/arxiv-16/</guid>
       <description></description>
     </item>
     
