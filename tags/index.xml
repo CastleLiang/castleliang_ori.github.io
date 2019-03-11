@@ -2,78 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yuxuan Liang</title>
-    <link>https://yuxuanliang.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Yuxuan Liang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yuxuanliang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Attention</title>
-      <link>https://yuxuanliang.com/tags/attention/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/tags/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://yuxuanliang.com/tags/deep-learning/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative</title>
-      <link>https://yuxuanliang.com/tags/generative/</link>
-      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/tags/generative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HyperNet</title>
-      <link>https://yuxuanliang.com/tags/hypernet/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/tags/hypernet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MTL</title>
-      <link>https://yuxuanliang.com/tags/mtl/</link>
-      <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/tags/mtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MVL</title>
-      <link>https://yuxuanliang.com/tags/mvl/</link>
-      <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/tags/mvl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ST Data</title>
-      <link>https://yuxuanliang.com/tags/st-data/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/tags/st-data/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
