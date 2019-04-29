@@ -15,10 +15,11 @@
   
     
   
-  <meta name="description" content="Urban water quality is of great importance to our daily lives. Prediction of urban water quality help control water pollution and protect human health. In this work, we forecast the water quality of a station over the next few hours, using a multitask multi-view learning method to fuse multiple datasets from different domains. In particular, our learning model comprises two alignments. The first alignment is the spaio-temporal view alignment, which combines local spatial and temporal information of each station. The second alignment is the prediction alignment among stations, which captures their spatial correlations and  performs copredictions by incorporating these correlations. Extensive experiments on real-world datasets demonstrate the effectiveness of our approach.">
+  <meta name="description" content="Urban flow monitoring systems play important roles in smart city efforts around the world. However, the ubiquitous deployment of monitoring devices, such as CCTVs, induces a long-lasting and enormous cost for maintenance and operation. This suggests the need for a technology that can reduce the number of deployed devices, while preventing the degeneration of data accuracy and granularity. In this paper, we aim to infer the real-time and fine-grained crowd flows throughout a city based on coarse-grained observations. This task is challenging due to the two essential reasons: the spatial correlations between coarse- and fine-grained urban flows, and the complexities of external impacts. To tackle these issues, we develop a method entitled UrbanFM based on deep neural networks. Our model consists of two major parts: 1) an inference network to generate fine-grained flow distributions from coarse-grained inputs by using a feature extraction module and a novel distributional upsampling module; 2) a general fusion subnet to further boost the performance by considering the influences of different external factors. Extensive experiments on two real-world datasets, namely TaxiBJ and HappyValley, validate the effectiveness and efficiency of our method compared to seven baselines, demonstrating the state-of-the-art performance of our approach on the fine-grained urban flow inference problem.
+">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yuxuanliang.com/publication/ijcai-16/">
+  <link rel="alternate" hreflang="en-us" href="https://yuxuanliang.com/publication/kdd-19/">
 
   
 
@@ -100,30 +101,31 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://yuxuanliang.com/publication/ijcai-16/">
+  <link rel="canonical" href="https://yuxuanliang.com/publication/kdd-19/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yuxuan Liang">
-  <meta property="og:url" content="https://yuxuanliang.com/publication/ijcai-16/">
-  <meta property="og:title" content="Urban Water Quality Prediction based on Multi-task Multi-view Learning | Yuxuan Liang">
-  <meta property="og:description" content="Urban water quality is of great importance to our daily lives. Prediction of urban water quality help control water pollution and protect human health. In this work, we forecast the water quality of a station over the next few hours, using a multitask multi-view learning method to fuse multiple datasets from different domains. In particular, our learning model comprises two alignments. The first alignment is the spaio-temporal view alignment, which combines local spatial and temporal information of each station. The second alignment is the prediction alignment among stations, which captures their spatial correlations and  performs copredictions by incorporating these correlations. Extensive experiments on real-world datasets demonstrate the effectiveness of our approach.">
+  <meta property="og:url" content="https://yuxuanliang.com/publication/kdd-19/">
+  <meta property="og:title" content="UrbanFM: Inferring Fine-Grained Urban Flows | Yuxuan Liang">
+  <meta property="og:description" content="Urban flow monitoring systems play important roles in smart city efforts around the world. However, the ubiquitous deployment of monitoring devices, such as CCTVs, induces a long-lasting and enormous cost for maintenance and operation. This suggests the need for a technology that can reduce the number of deployed devices, while preventing the degeneration of data accuracy and granularity. In this paper, we aim to infer the real-time and fine-grained crowd flows throughout a city based on coarse-grained observations. This task is challenging due to the two essential reasons: the spatial correlations between coarse- and fine-grained urban flows, and the complexities of external impacts. To tackle these issues, we develop a method entitled UrbanFM based on deep neural networks. Our model consists of two major parts: 1) an inference network to generate fine-grained flow distributions from coarse-grained inputs by using a feature extraction module and a novel distributional upsampling module; 2) a general fusion subnet to further boost the performance by considering the influences of different external factors. Extensive experiments on two real-world datasets, namely TaxiBJ and HappyValley, validate the effectiveness and efficiency of our method compared to seven baselines, demonstrating the state-of-the-art performance of our approach on the fine-grained urban flow inference problem.
+">
   
   
     
   <meta property="og:image" content="https://yuxuanliang.com/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-07-24T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-04-29T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2016-07-24T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-04-29T00:00:00&#43;00:00">
   
 
   
 
-  <title>Urban Water Quality Prediction based on Multi-task Multi-view Learning | Yuxuan Liang</title>
+  
+
+  <title>UrbanFM: Inferring Fine-Grained Urban Flows | Yuxuan Liang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -309,7 +311,7 @@
 
 
 <div class="article-header d-xl-none">
-  <img src="/publication/ijcai-16/featured_hu6565efabdfaa6fecee74f179bb88609d_189337_1600x400_fill_q90_box_center.jpg" class="article-banner" itemprop="image" alt="">
+  <img src="/publication/kdd-19/featured_hu63d208b9f73dc8f295687f0978660dd5_238526_1600x400_fill_q90_box_center.jpg" class="article-banner" itemprop="image" alt="">
   <span class="article-header-caption">Framework of this paper</span>
 </div>
 
@@ -318,7 +320,7 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">Urban Water Quality Prediction based on Multi-task Multi-view Learning</h1>
+        <h1 itemprop="name">UrbanFM: Inferring Fine-Grained Urban Flows</h1>
 
         
 
@@ -332,23 +334,35 @@
   <div>
     
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Ye Liu</span>
-    </span>, 
-    
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Yu Zheng</span>
-    </span>, 
-    
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">**Yuxuan Liang**</span>
     </span>, 
     
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Shuming Liu</span>
+      <span itemprop="name">Kun Ouyang</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Lin Jing</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Sijie Ruan</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Ye Liu</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Junbo Zhang</span>
     </span>, 
     
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">David S. Rosenblum</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Yu Zheng</span>
     </span>
     
   </div>
@@ -356,9 +370,9 @@
 
   <span class="article-date">
     
-    <meta content="2016-07-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2016-07-24 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Jul 24, 2016
+    <meta content="2019-04-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2019-04-29 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Apr 29, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -387,35 +401,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f"
+         href="https://twitter.com/intent/tweet?text=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f&amp;title=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f&amp;title=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f&amp;title=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f&amp;title=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning&amp;body=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f">
+         href="mailto:?subject=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows&amp;body=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -427,7 +441,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/publication/ijcai-16/featured_hu6565efabdfaa6fecee74f179bb88609d_189337_680x500_fill_q90_box_center.jpg" itemprop="image" alt="">
+        <img src="/publication/kdd-19/featured_hu63d208b9f73dc8f295687f0978660dd5_238526_680x500_fill_q90_box_center.jpg" itemprop="image" alt="">
         <span class="article-header-caption">Framework of this paper</span>
       </div>
     </div>
@@ -435,7 +449,7 @@
 </div>
 
 <div class="article-container d-xl-none">
-  <h1 itemprop="name">Urban Water Quality Prediction based on Multi-task Multi-view Learning</h1>
+  <h1 itemprop="name">UrbanFM: Inferring Fine-Grained Urban Flows</h1>
 
   
 
@@ -449,23 +463,35 @@
   <div>
     
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Ye Liu</span>
-    </span>, 
-    
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Yu Zheng</span>
-    </span>, 
-    
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">**Yuxuan Liang**</span>
     </span>, 
     
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Shuming Liu</span>
+      <span itemprop="name">Kun Ouyang</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Lin Jing</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Sijie Ruan</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Ye Liu</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Junbo Zhang</span>
     </span>, 
     
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">David S. Rosenblum</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Yu Zheng</span>
     </span>
     
   </div>
@@ -473,9 +499,9 @@
 
   <span class="article-date">
     
-    <meta content="2016-07-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2016-07-24 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Jul 24, 2016
+    <meta content="2019-04-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2019-04-29 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Apr 29, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -500,35 +526,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f"
+         href="https://twitter.com/intent/tweet?text=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f&amp;title=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f&amp;title=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f&amp;title=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f&amp;title=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Urban%20Water%20Quality%20Prediction%20based%20on%20Multi-task%20Multi-view%20Learning&amp;body=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcai-16%2f">
+         href="mailto:?subject=UrbanFM%3a%20Inferring%20Fine-Grained%20Urban%20Flows&amp;body=https%3a%2f%2fyuxuanliang.com%2fpublication%2fkdd-19%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -548,7 +574,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Urban water quality is of great importance to our daily lives. Prediction of urban water quality help control water pollution and protect human health. In this work, we forecast the water quality of a station over the next few hours, using a multitask multi-view learning method to fuse multiple datasets from different domains. In particular, our learning model comprises two alignments. The first alignment is the spaio-temporal view alignment, which combines local spatial and temporal information of each station. The second alignment is the prediction alignment among stations, which captures their spatial correlations and  performs copredictions by incorporating these correlations. Extensive experiments on real-world datasets demonstrate the effectiveness of our approach.</p>
+    <p class="pub-abstract" itemprop="text">Urban flow monitoring systems play important roles in smart city efforts around the world. However, the ubiquitous deployment of monitoring devices, such as CCTVs, induces a long-lasting and enormous cost for maintenance and operation. This suggests the need for a technology that can reduce the number of deployed devices, while preventing the degeneration of data accuracy and granularity. In this paper, we aim to infer the real-time and fine-grained crowd flows throughout a city based on coarse-grained observations. This task is challenging due to the two essential reasons: the spatial correlations between coarse- and fine-grained urban flows, and the complexities of external impacts. To tackle these issues, we develop a method entitled UrbanFM based on deep neural networks. Our model consists of two major parts: 1) an inference network to generate fine-grained flow distributions from coarse-grained inputs by using a feature extraction module and a novel distributional upsampling module; 2) a general fusion subnet to further boost the performance by considering the influences of different external factors. Extensive experiments on two real-world datasets, namely TaxiBJ and HappyValley, validate the effectiveness and efficiency of our method compared to seven baselines, demonstrating the state-of-the-art performance of our approach on the fine-grained urban flow inference problem.</p>
     
 
     
@@ -577,7 +603,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">IJCAI 2016</div>
+          <div class="col-12 col-md-9">SIGKDD 2019</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -591,7 +617,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            July, 2016
+            April, 2019
           </div>
         </div>
       </div>
@@ -618,28 +644,18 @@
 
 
   
-    
-  
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/ijcai-16/paper.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Code-To-Release-Updated.zip" target="_blank" rel="noopener">
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/yoshall/UrbanFM" target="_blank" rel="noopener">
   Code
 </a>
 
 
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/IJCAI2016_poster.pdf" target="_blank" rel="noopener">
-  Poster
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/yoshall/UrbanFM" target="_blank" rel="noopener">
+  Dataset
 </a>
 
 
@@ -647,8 +663,12 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/ijcai-16/bibtex.bib" target="_blank" rel="noopener">
-  Bibtex
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/1902.05377.pdf" target="_blank" rel="noopener">
+  Preprint
 </a>
 
 
@@ -669,11 +689,13 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/mvl/">MVL</a>
-  
-  <a class="badge badge-light" href="/tags/mtl/">MTL</a>
+  <a class="badge badge-light" href="/tags/deep-learning/">Deep Learning</a>
   
   <a class="badge badge-light" href="/tags/st-data/">ST Data</a>
+  
+  <a class="badge badge-light" href="/tags/cnn/">CNN</a>
+  
+  <a class="badge badge-light" href="/tags/super-resolution/">Super-resolution</a>
   
 </div>
 
