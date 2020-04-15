@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="PhD Student">
+  <meta name="description" content="Learning semantically coherent location embeddings can benefit downstream applications such as human mobility prediction. However, the conflation of geographic and semantic attributes of a location can harm such coherence, especially when semantic labels are not provided for the learning. To resolve this problem, in this paper, we present a novel unsupervised method for learning location embeddings from human trajectories. Our method advances traditional transition-based techniques in two ways: 1) we alleviate the disturbance of geographic attributes on the semantics by disentangling the two spaces; and 2) we incorporate spatio-temporal attributes and regular visiting patterns of trajectories to capture the semantics more accurately. Moreover, we present the first quantitative evaluation on location embeddings by introducing an original query-based metric, and we apply the metric in experiments on two Foursquare datasets, which demonstrate the improvement our model achieves on semantic coherence. We further apply the learned embeddings to two downstream applications, namely next point-of-interest recommendation and trajectory verification. Empirical results demonstrate the advantages of the disentangled embeddings over four state-of-the-art unsupervised location embedding methods.">
 
   
-  <link rel="alternate" hreflang="en-us" href="">
+  <link rel="alternate" hreflang="en-us" href="https://yuxuanliang.com/publication/ijcnn-20/">
 
   
 
@@ -100,28 +100,30 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://yuxuanliang.com/publication/ijcnn-20/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yuxuan Liang">
-  <meta property="og:url" content="">
-  <meta property="og:title" content="404 Page not found | Yuxuan Liang">
-  <meta property="og:description" content="PhD Student">
+  <meta property="og:url" content="https://yuxuanliang.com/publication/ijcnn-20/">
+  <meta property="og:title" content="Unsupervised Learning of Disentangled Location Embeddings | Yuxuan Liang">
+  <meta property="og:description" content="Learning semantically coherent location embeddings can benefit downstream applications such as human mobility prediction. However, the conflation of geographic and semantic attributes of a location can harm such coherence, especially when semantic labels are not provided for the learning. To resolve this problem, in this paper, we present a novel unsupervised method for learning location embeddings from human trajectories. Our method advances traditional transition-based techniques in two ways: 1) we alleviate the disturbance of geographic attributes on the semantics by disentangling the two spaces; and 2) we incorporate spatio-temporal attributes and regular visiting patterns of trajectories to capture the semantics more accurately. Moreover, we present the first quantitative evaluation on location embeddings by introducing an original query-based metric, and we apply the metric in experiments on two Foursquare datasets, which demonstrate the improvement our model achieves on semantic coherence. We further apply the learned embeddings to two downstream applications, namely next point-of-interest recommendation and trajectory verification. Empirical results demonstrate the advantages of the disentangled embeddings over four state-of-the-art unsupervised location embedding methods.">
   
   
     
   <meta property="og:image" content="https://yuxuanliang.com/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
+  <meta property="article:published_time" content="2020-03-20T00:00:00&#43;00:00">
   
+  <meta property="article:modified_time" content="2020-03-20T00:00:00&#43;00:00">
+  
+
   
 
   
 
-  
-
-  <title>404 Page not found | Yuxuan Liang</title>
+  <title>Unsupervised Learning of Disentangled Location Embeddings | Yuxuan Liang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -271,47 +273,263 @@
   </div>
 </nav>
 
-<div class="container">
-
-  <h1>Page not found</h1>
-  <p>Perhaps you were looking for one of these?</p>
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-  
 
-  
-  
-  <h2>Publications</h2>
-  
-  <ul>
-    <li><a href="/publication/tbd-20-2/">Federated Forest</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/ijcnn-20/">Unsupervised Learning of Disentangled Location Embeddings</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/arxiv-20-2/">Revisiting Convolutional Neural Networks for Urban Flow Analytics</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/tbd-20/">Predicting Urban Water Quality with Ubiquitous Data</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/arxiv-20/">Fine-Grained Urban Flow Inference</a></li>
-  </ul>
-  
+
+
+
+
+
+
+
+
+
+
+
   
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Unsupervised Learning of Disentangled Location Embeddings</h1>
 
   
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Kun Ouyang</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">**Yuxuan Liang**</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Wenzhuo Yang</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Ye Liu</span>
+    </span>, 
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">David S. Rosenblum</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2020-03-20 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2020-03-20 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Mar 20, 2020
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Yuxuan Liang">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    0 min read
+  </span>
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Unsupervised%20Learning%20of%20Disentangled%20Location%20Embeddings&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcnn-20%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcnn-20%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcnn-20%2f&amp;title=Unsupervised%20Learning%20of%20Disentangled%20Location%20Embeddings"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcnn-20%2f&amp;title=Unsupervised%20Learning%20of%20Disentangled%20Location%20Embeddings"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Unsupervised%20Learning%20of%20Disentangled%20Location%20Embeddings&amp;body=https%3a%2f%2fyuxuanliang.com%2fpublication%2fijcnn-20%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
   
 
 </div>
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Learning semantically coherent location embeddings can benefit downstream applications such as human mobility prediction. However, the conflation of geographic and semantic attributes of a location can harm such coherence, especially when semantic labels are not provided for the learning. To resolve this problem, in this paper, we present a novel unsupervised method for learning location embeddings from human trajectories. Our method advances traditional transition-based techniques in two ways: 1) we alleviate the disturbance of geographic attributes on the semantics by disentangling the two spaces; and 2) we incorporate spatio-temporal attributes and regular visiting patterns of trajectories to capture the semantics more accurately. Moreover, we present the first quantitative evaluation on location embeddings by introducing an original query-based metric, and we apply the metric in experiments on two Foursquare datasets, which demonstrate the improvement our model achieves on semantic coherence. We further apply the learned embeddings to two downstream applications, namely next point-of-interest recommendation and trajectory verification. Empirical results demonstrate the advantages of the disentangled embeddings over four state-of-the-art unsupervised location embedding methods.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">International Joint Conference on Neural Networks</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            March, 2020
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-12 col-md-9">
+
+            
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.comp.nus.edu.sg/~david/Publications/ijcnn2020-preprint.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/embedding/">Embedding</a>
+  
+  <a class="badge badge-light" href="/tags/st-data/">ST Data</a>
+  
+  <a class="badge badge-light" href="/tags/deep-learning/">Deep Learning</a>
+  
+</div>
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   

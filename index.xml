@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Federated Forest</title>
+      <link>https://yuxuanliang.com/publication/tbd-20-2/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/tbd-20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning of Disentangled Location Embeddings</title>
+      <link>https://yuxuanliang.com/publication/ijcnn-20/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/ijcnn-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Convolutional Neural Networks for Urban Flow Analytics</title>
+      <link>https://yuxuanliang.com/publication/arxiv-20-2/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/arxiv-20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Urban Water Quality with Ubiquitous Data</title>
       <link>https://yuxuanliang.com/publication/tbd-20/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
