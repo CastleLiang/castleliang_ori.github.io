@@ -33,7 +33,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://yuxuanliang.com/tags/deep-learning/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yuxuanliang.com/tags/deep-learning/</guid>
       <description></description>
@@ -54,6 +54,15 @@
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yuxuanliang.com/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCN</title>
+      <link>https://yuxuanliang.com/tags/gcn/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/tags/gcn/</guid>
       <description></description>
     </item>
     
@@ -112,9 +121,27 @@
     </item>
     
     <item>
+      <title>NAS</title>
+      <link>https://yuxuanliang.com/tags/nas/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/tags/nas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node Classification</title>
+      <link>https://yuxuanliang.com/tags/node-classification/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/tags/node-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ST Data</title>
       <link>https://yuxuanliang.com/tags/st-data/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yuxuanliang.com/tags/st-data/</guid>
       <description></description>
