@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Fine-Grained Urban Flow Inference</title>
+      <link>https://yuxuanliang.com/publication/tkde-20-3/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/tkde-20-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks</title>
+      <link>https://yuxuanliang.com/publication/tkde-20-2/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/tkde-20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NodeAug: Semi-Supervised Node Classification with Data Augmentation</title>
       <link>https://yuxuanliang.com/publication/kdd-20-2/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -74,15 +92,6 @@
     </item>
     
     <item>
-      <title>Fine-Grained Urban Flow Inference</title>
-      <link>https://yuxuanliang.com/publication/arxiv-20/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/publication/arxiv-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dynamic Public Resource Allocation based on Human Mobility Prediction</title>
       <link>https://yuxuanliang.com/publication/ubicomp-20/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yuxuanliang.com/publication/ijcai-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HyperST-Net: Hypernetworks for Spatio-Temporal Forecasting</title>
-      <link>https://yuxuanliang.com/publication/arxiv-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuxuanliang.com/publication/arxiv-18/</guid>
       <description></description>
     </item>
     
