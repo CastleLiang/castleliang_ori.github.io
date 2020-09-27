@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yuxuanliang.com/tags/gcn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digraph Inception Convolutional Networks</title>
+      <link>https://yuxuanliang.com/publication/nips-20/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/nips-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks</title>
@@ -18,6 +27,15 @@
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yuxuanliang.com/publication/tkde-20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Supervision for Node Classification</title>
+      <link>https://yuxuanliang.com/publication/ecml-20-2/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuxuanliang.com/publication/ecml-20-2/</guid>
       <description></description>
     </item>
     

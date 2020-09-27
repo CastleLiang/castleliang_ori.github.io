@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://yuxuanliang.com/publication/nips-20/</loc>
+      <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://yuxuanliang.com/publication/tkde-20-3/</loc>
       <lastmod>2020-07-30T00:00:00+00:00</lastmod>
     </url>
@@ -14,6 +22,22 @@
     
       <loc>https://yuxuanliang.com/publication/tkde-20-2/</loc>
       <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/publication/ecml-20-2/</loc>
+      <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://yuxuanliang.com/publication/ecml-20/</loc>
+      <lastmod>2020-06-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -54,14 +78,6 @@
     
       <loc>https://yuxuanliang.com/publication/ijcnn-20/</loc>
       <lastmod>2020-03-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://yuxuanliang.com/publication/arxiv-20-2/</loc>
-      <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -173,7 +189,7 @@
     <url>
     
       <loc>https://yuxuanliang.com/publication_types/1/</loc>
-      <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-09-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -191,7 +207,7 @@
     <url>
     
       <loc>https://yuxuanliang.com/publication_types/3/</loc>
-      <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,15 +241,6 @@
     
     <url>
     
-      <loc>https://yuxuanliang.com/tags/deep-learning/</loc>
-      <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://yuxuanliang.com/tags/embedding/</loc>
       <lastmod>2020-03-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -253,7 +260,7 @@
     <url>
     
       <loc>https://yuxuanliang.com/tags/gcn/</loc>
-      <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+      <lastmod>2020-09-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -325,7 +332,7 @@
     <url>
     
       <loc>https://yuxuanliang.com/tags/node-classification/</loc>
-      <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-06-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,7 +341,7 @@
     <url>
     
       <loc>https://yuxuanliang.com/publication_types/</loc>
-      <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-09-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
