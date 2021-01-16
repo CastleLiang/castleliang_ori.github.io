@@ -2,6 +2,22 @@
 == Publications 
 
 === Conference
+- Fine-grained Urban Flow Prediction \n
+Yuxuan Liang, Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum and Roger Zimmermann \n
+The Web Conference 2021, To Appear, 2020.
+
+- AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph \n
+Zheyi Pan, Songyu Ke, Xiaodu Yang, Yuxuan Liang, Yong Yu, Junbo Zhang, Yu Zheng \n
+The Web Conference 2021, To Appear, 2020.
+
+- Mixup for Node and Graph Classification \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
+The Web Conference 2021, To Appear, 2020.
+
+- CurGraph: Curriculum Learning for Graph Classification \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
+The Web Conference 2021, To Appear, 2020.
+
 - [https://papers.nips.cc/paper/2020/file/cffb6e2288a630c2a787a64ccc67097c-Paper.pdf Digraph Inception Convolutional Networks] \[[https://github.com/flyingtango/DiGCN Code]\] \n
 Zekun Tong, *Yuxuan Liang*, Changsheng Sun, Xinke Li, David S. Rosenblum, Andrew Lim \n
 in Proc. of The Advances in Neural Information Processing Systems (NeurIPS), 2020.
