@@ -2,7 +2,7 @@
 == Publications
 
 === Spatio-Temporal Data Mining
-- Fine-grained Urban Flow Prediction \n
+- [http://urban-computing.com/pdf/WWW2021UrbanFlowPrediction.pdf Fine-Grained Urban Flow Prediction] \n
 *Yuxuan Liang*, Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum and Roger Zimmermann \n
 The Web Conference 2021 (WWW), To Appear, 2021.
 
@@ -20,9 +20,9 @@ in Proc. of the 27th International Joint Conference on Artificial Intelligence (
 
 - [https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Traffic-cascading-patterns_Zheng_SIGSPATIAL2017.pdf Inferring Traffic Cascading Patterns] \n
 *Yuxuan Liang*, Zhongyuan Jiang, Yu Zheng \n
-in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2017.
+in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS), 2017.
 
-- AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph \n
+- [http://panzheyi.cc/publication/pan2021autostg/paper.pdf AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph] \n
 Zheyi Pan, Songyu Ke, Xiaodu Yang, *Yuxuan Liang*, Yong Yu, Junbo Zhang, Yu Zheng \n
 The Web Conference 2021 (WWW), To Appear, 2021.
 
@@ -62,7 +62,9 @@ in Proc. of the 34th AAAI Conference, 2020.
 Zheyi Pan, *Yuxuan Liang*, Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang \n
 in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019.
 
-
+- [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ijcai16-Zheng-water-quality.pdf Urban Water Quality Prediction based on Multi-task Multi-view Learning] \[[https://github.com/yoshall/stMTMVL Code]\]\n
+Ye Liu, Yu Zheng, *Yuxuan Liang*, Shuming Liu, David S. Rosenblum \n
+in Proc. of the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
 === Graph Neural Networks
 
@@ -86,10 +88,6 @@ in Proc. of The European Conference on Machine Learning and Principles and Pract
 - [https://bhooi.github.io/papers/nodeaug_kdd20.pdf NodeAug: Semi-Supervised Node Classification with Data Augmentation] \n
 Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai, Juncheng Liu, Bryan Hooi \n
 in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020.
-
-- [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ijcai16-Zheng-water-quality.pdf Urban Water Quality Prediction based on Multi-task Multi-view Learning] \[[https://github.com/yoshall/stMTMVL Code]\]\n
-Ye Liu, Yu Zheng, *Yuxuan Liang*, Shuming Liu, David S. Rosenblum \n
-in Proc. of the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
 === Other Topics
 
