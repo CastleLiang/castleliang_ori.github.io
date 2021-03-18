@@ -22,7 +22,7 @@ in Proc. of the 27th International Joint Conference on Artificial Intelligence (
 *Yuxuan Liang*, Zhongyuan Jiang, Yu Zheng \n
 in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS), 2017.
 
-- [http://panzheyi.cc/publication/pan2021autostg/paper.pdf AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph] \n
+- [http://panzheyi.cc/publication/pan2021autostg/paper.pdf AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph] \[[https://github.com/panzheyi/AutoSTG Code]\] \n
 Zheyi Pan, Songyu Ke, Xiaodu Yang, *Yuxuan Liang*, Yong Yu, Junbo Zhang, Yu Zheng \n
 The Web Conference 2021 (WWW), To Appear, 2021.
 
@@ -30,7 +30,7 @@ The Web Conference 2021 (WWW), To Appear, 2021.
 Ting Li, Junbo Zhang, Kainan Bao, *Yuxuan Liang*, Yexin Li, Yu Zheng \n
 in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020.
 
-- [http://urban-computing.com/pdf/TKDE_UrbanFlowInfer.pdf Fine-Grained Urban Flow Inference] \n
+- [http://urban-computing.com/pdf/TKDE_UrbanFlowInfer.pdf Fine-Grained Urban Flow Inference] \[[https://github.com/ouyangksoc/UrbanPy Code]\] \n
 Kun Ouyang, *Yuxuan Liang*, Ye Liu, Zekun Tong, Sijie Ruan, Yu Zheng, David S. Rosenblum \n
 in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
 
@@ -38,7 +38,7 @@ in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
 Junkai Sun, Junbo Zhang, Qiaofei Li, Xiuwen Yi, *Yuxuan Liang*, Yu Zheng \n
 in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
 
-- [http://urban-computing.com/pdf/MetaLearning_tkde_2020.pdf Spatio-Temporal Meta Learning for Urban Traffic Prediction] \n
+- [http://urban-computing.com/pdf/MetaLearning_tkde_2020.pdf Spatio-Temporal Meta Learning for Urban Traffic Prediction] \[[https://github.com/panzheyi/ST-MetaNet Code]\]\n
 Zheyi Pan, Wentao Zhang, *Yuxuan Liang*, Weinan Zhang, Yong Yu, Junbo Zhang, Yu Zheng \n
 in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
 
