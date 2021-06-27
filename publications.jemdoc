@@ -78,11 +78,12 @@ in Proc. of the 25th International Joint Conference on Artificial Intelligence (
 === Graph Neural Networks
 
 
-- Mixup for Node and Graph Classification \n
+- [https://dl.acm.org/doi/abs/10.1145/3442381.3449796?casa_token=ld3tJXow02AAAAAA:k6qS_Tsxym4YyANwQn8a-0Xf98Y0jD_gfTpPt8wocORTvaGRThRLseXYuvLbO8RU_EC0k6gAX6T7dg Mixup for Node and Graph Classification] \[[https://github.com/vanoracai/MixupForGraph Code]\] \n
+Kun Ouyang, *Yuxuan Liang*, Ye Liu, Zekun Tong, Sijie Ruan, Yu Zheng, David S. Rosenblum \n
 Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
 The Web Conference 2021 (WWW), To Appear, 2021.
 
-- CurGraph: Curriculum Learning for Graph Classification \n
+- [https://bhooi.github.io/papers/curgraph_web21.pdf CurGraph: Curriculum Learning for Graph Classification] \n
 Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
 The Web Conference 2021 (WWW), To Appear, 2021.
 
