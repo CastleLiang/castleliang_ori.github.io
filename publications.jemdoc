@@ -3,9 +3,9 @@
 
 === Spatio-Temporal Data Mining
 
-- [pdf/TrajODE-CRV.pdf Modeling Trajectories with Neural Ordinary Differential Equations] \n
+- [https://www.ijcai.org/proceedings/2021/0207.pdf Modeling Trajectories with Neural Ordinary Differential Equations] \n
 *Yuxuan Liang*, Kun Ouyang, Hanshu Yan, Yiwei Wang, Zekun Tong and Roger Zimmermann \n
-The 30th International Joint Conference on Artificial Intelligence (IJCAI), To Appear, 2021.
+in Proc. of The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021.
 
 - [http://urban-computing.com/pdf/WWW2021UrbanFlowPrediction.pdf Fine-Grained Urban Flow Prediction] \n
 *Yuxuan Liang*, Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum and Roger Zimmermann \n
@@ -31,9 +31,13 @@ in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geog
 Zikun Deng, Di Weng, *Yuxuan Liang*, Jie Bao, Yu Zheng, Tobias Schreck, Mingliang Xu, and Yingcai Wu \n
 IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), 2021.
 
+- Learning Multi-context Aware Location Representations from Large-scale Geotagged Images \n
+Yifang Yin, Ying Zhang, Zhenguang Liu, *Yuxuan Liang*, Sheng Wang, Rajiv Ratn Shah, and Roger Zimmermann \n
+ACM Multimedia (MM), 2021.
+
 - [http://panzheyi.cc/publication/pan2021autostg/paper.pdf AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph] \[[https://github.com/panzheyi/AutoSTG Code]\] \n
 Zheyi Pan, Songyu Ke, Xiaodu Yang, *Yuxuan Liang*, Yong Yu, Junbo Zhang, Yu Zheng \n
-The Web Conference 2021 (WWW), To Appear, 2021.
+The Web Conference 2021 (WWW), 2021.
 
 - [http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf AutoST: Efficient Neural Architecture Search forSpatio-Temporal Prediction] \n
 Ting Li, Junbo Zhang, Kainan Bao, *Yuxuan Liang*, Yexin Li, Yu Zheng \n
@@ -80,11 +84,11 @@ in Proc. of the 25th International Joint Conference on Artificial Intelligence (
 
 - [https://dl.acm.org/doi/abs/10.1145/3442381.3449796?casa_token=ld3tJXow02AAAAAA:k6qS_Tsxym4YyANwQn8a-0Xf98Y0jD_gfTpPt8wocORTvaGRThRLseXYuvLbO8RU_EC0k6gAX6T7dg Mixup for Node and Graph Classification] \[[https://github.com/vanoracai/MixupForGraph Code]\] \n
 Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
-The Web Conference 2021 (WWW), To Appear, 2021.
+The Web Conference 2021 (WWW), 2021.
 
 - [https://bhooi.github.io/papers/curgraph_web21.pdf CurGraph: Curriculum Learning for Graph Classification] \n
 Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
-The Web Conference 2021 (WWW), To Appear, 2021.
+The Web Conference 2021 (WWW), 2021.
 
 - [https://papers.nips.cc/paper/2020/file/cffb6e2288a630c2a787a64ccc67097c-Paper.pdf Digraph Inception Convolutional Networks] \[[https://github.com/flyingtango/DiGCN Code]\] \n
 Zekun Tong, *Yuxuan Liang*, Changsheng Sun, Xinke Li, David S. Rosenblum, Andrew Lim \n
