@@ -26,18 +26,13 @@ I am a third-year PhD student at School of Computing, National University of Sin
 - \[01-16-2020\] Four papers about ST prediction and GNN were accepted by WWW'21.
 
 == Working Experience
-- \[Internship\] Reserach Intern @ Sea AI Lab (SAIL), Singapore, Summer 2021
-- \[FTE\] Research Assistant @ National University of Singapore, Singapore, Nov 2018 - April 2019
-- \[Internship\] Algorithm Engineer Intern @ JD.COM, Beijing, China, Jan 2018 - Sep 2018
-- \[Internship\] Reserach Intern @ Microsoft Research, Beijing, China, Jan. 2017 - Jan 2018
-- \[Internship\] Reserach Intern @ Microsoft Research, Beijing, China, Dec. 2015 - Sep 2016
+- \[Internship\] Reserach Intern @ [https://sail.sea.com Sea AI Lab (SAIL)], Singapore, Summer 2021
+- \[FTE\] Research Assistant @ [https://www.nus.edu.sg National University of Singapore], Singapore, Nov 2018 - April 2019
+- \[Internship\] Algorithm Engineer Intern @ [https://icity.jd.com JD.COM], Beijing, China, Jan 2018 - Sep 2018
+- \[Internship\] Reserach Intern @ [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia Microsoft Research], Beijing, China, Jan. 2017 - Jan 2018
+- \[Internship\] Reserach Intern @ [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia Microsoft Research], Beijing, China, Dec. 2015 - Sep 2016
 
-== Community Services
-- Conference PC member: ICLR'22, AAAI'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
-- Conference External reviewer: KDD'20, IJCAI'19, KDD'19, KDD'18, SDM'18, CIKM'18, KDD'17, CIKM'17, ICDM'16, GIS'16, etc.
-- Journal reviewer: TKDE, TMC, IMWUT, T-ITS, TIST, TR Part C, IEEE Sensor, etc.
-
-== Featured Publications \[[./publications.html See more here]\]
+== Featured Publications \[[./publications.html See more]\]
 - [https://www.ijcai.org/Proceedings/2018/0476.pdf GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction] \[[https://github.com/yoshall/GeoMAN Code]\] \n
 *Yuxuan Liang*, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng \n
 in Proc. of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2018.
@@ -53,3 +48,8 @@ in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and D
 - [http://urban-computing.com/pdf/WWW2021UrbanFlowPrediction.pdf Fine-Grained Urban Flow Prediction] \n
 *Yuxuan Liang*, Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum and Roger Zimmermann \n
 The Web Conference 2021 (WWW), 2021.
+
+== Community Services
+- Conference PC member: ICLR'22, AAAI'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
+- Conference External reviewer: KDD'20, IJCAI'19, KDD'19, KDD'18, SDM'18, CIKM'18, KDD'17, CIKM'17, ICDM'16, GIS'16, etc.
+- Journal reviewer: TKDE, TMC, IMWUT, T-ITS, TIST, TR Part C, IEEE Sensor, etc.
