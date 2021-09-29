@@ -354,7 +354,7 @@ table + table {
 
 tr.heading {
     font-weight: bold;
-    border-bottom: 2px solid black;
+    border-bottom: 0px solid black;
 }
 
 img {
