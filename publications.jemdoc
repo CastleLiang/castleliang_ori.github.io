@@ -1,4 +1,31 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
+== Preprints
+
+- [https://arxiv.org/pdf/2112.04674.pdf DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition] \[[https://github.com/sail-sg/dualformer Code]\] \n
+*Yuxuan Liang*, Pan Zhou, Roger Zimmermann and Shuicheng Yan \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/pdf/2108.11873.pdf Spatio-Temporal Graph Contrastive Learning] \n
+Xu Liu\*, *Yuxuan Liang\**, Yu Zheng, Bryan Hooi and Roger Zimmermann (\* indicates equal contribution) \n
+Arxiv preprint, 2021.
+
+- PRNet: A Periodic Residual Learning Network for Crowd Flow Forecasting \n
+Chengxin Wang, *Yuxuan Liang* and Gary Tan \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/pdf/2112.00499.pdf Structure-Aware Label Smoothing for Graph Neural Networks] \n
+Yiwei Wang, Yujun Cai, *Yuxuan Liang*, Wei Wang, Henghui Ding, Muhao Chen, Jing Tang and Bryan Hooi \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/pdf/2112.00499.pdf Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference] \n
+Junfeng Hu, *Yuxuan Liang*, Zhencheng Fan, Yifang Yin, Ying Zhang and Roger Zimmermann \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/pdf/2009.10564 Graphcrop: Subgraph cropping for graph classification] \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai, Bryan Hooi \n
+Arxiv preprint, 2020
+
+
 == Publications
 
 === Spatio-Temporal Data Mining
@@ -31,7 +58,7 @@ in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geog
 Zikun Deng, Di Weng, *Yuxuan Liang*, Jie Bao, Yu Zheng, Tobias Schreck, Mingliang Xu, and Yingcai Wu \n
 IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), 2021.
 
-- Learning Multi-context Aware Location Representations from Large-scale Geotagged Images \n
+- [https://dl.acm.org/doi/pdf/10.1145/3474085.3475268 Learning Multi-context Aware Location Representations from Large-scale Geotagged Images] \n
 Yifang Yin, Ying Zhang, Zhenguang Liu, *Yuxuan Liang*, Sheng Wang, Rajiv Ratn Shah, and Roger Zimmermann \n
 ACM Multimedia (MM), 2021.
 
@@ -81,6 +108,13 @@ in Proc. of the 25th International Joint Conference on Artificial Intelligence (
 
 === Graph Neural Networks
 
+- [https://proceedings.neurips.cc/paper/2021/file/a3048e47310d6efaa4b1eaf55227bc92-Paper.pdf Directed Graph Contrastive Learning] \n
+Zekun Tong, *Yuxuan Liang*, Henghui Ding, Yongxing Dai, Xinke Li and Changhu Wang \n
+in Proc. of The Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+- [https://proceedings.neurips.cc//paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf Adaptive data augmentation on temporal graphs] \n
+Yiwei Wang, Yujun Cai, *Yuxuan Liang*, Henghui Ding, Changhu Wang, Siddharth Bhatia and Bryan Hooi \n
+in Proc. of The Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
 - [https://dl.acm.org/doi/abs/10.1145/3442381.3449796?casa_token=ld3tJXow02AAAAAA:k6qS_Tsxym4YyANwQn8a-0Xf98Y0jD_gfTpPt8wocORTvaGRThRLseXYuvLbO8RU_EC0k6gAX6T7dg Mixup for Node and Graph Classification] \[[https://github.com/vanoracai/MixupForGraph Code]\] \n
 Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
