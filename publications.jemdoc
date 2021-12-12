@@ -1,4 +1,6 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
 == Preprints
 
 - [https://arxiv.org/pdf/2112.04674.pdf DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition] \[[https://github.com/sail-sg/dualformer Code]\] \n
@@ -22,11 +24,11 @@ Junfeng Hu, *Yuxuan Liang*, Zhencheng Fan, Yifang Yin, Ying Zhang and Roger Zimm
 Arxiv preprint, 2021.
 
 - [https://arxiv.org/pdf/2009.10564 Graphcrop: Subgraph cropping for graph classification] \n
-Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai, Bryan Hooi \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
 Arxiv preprint, 2020
 
 
-== Publications
+== Peer-reviewed Papers
 
 === Spatio-Temporal Data Mining
 
