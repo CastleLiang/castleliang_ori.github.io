@@ -1,36 +1,31 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
-== Preprints
-
-- [https://arxiv.org/pdf/2112.04674.pdf DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition] \[[https://github.com/sail-sg/dualformer Code]\] \n
-*Yuxuan Liang*, Pan Zhou, Roger Zimmermann and Shuicheng Yan \n
-Arxiv preprint, 2021.
-
-- [https://arxiv.org/pdf/2108.11873.pdf Spatio-Temporal Graph Contrastive Learning] \n
-Xu Liu\*, *Yuxuan Liang\**, Yu Zheng, Bryan Hooi and Roger Zimmermann (\* indicates equal contribution) \n
-Arxiv preprint, 2021.
-
-- [https://arxiv.org/abs/2112.06132 PRNet: A Periodic Residual Learning Network for Crowd Flow Forecasting] \n
-Chengxin Wang, *Yuxuan Liang* and Gary Tan \n
-Arxiv preprint, 2021.
-
-- [https://arxiv.org/pdf/2112.00499.pdf Structure-Aware Label Smoothing for Graph Neural Networks] \n
-Yiwei Wang, Yujun Cai, *Yuxuan Liang*, Wei Wang, Henghui Ding, Muhao Chen, Jing Tang and Bryan Hooi \n
-Arxiv preprint, 2021.
-
-- [https://arxiv.org/pdf/2112.00499.pdf Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference] \n
-Junfeng Hu, *Yuxuan Liang*, Zhencheng Fan, Yifang Yin, Ying Zhang and Roger Zimmermann \n
-Arxiv preprint, 2021.
-
-- [https://arxiv.org/pdf/2009.10564 Graphcrop: Subgraph cropping for graph classification] \n
-Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
-Arxiv preprint, 2020
-
-
 == Peer-reviewed Papers
+=== Computer Vision, Graphics
 
-=== Spatio-Temporal Data Mining
+- DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition \n
+*Yuxuan Liang*, Pan Zhou, Roger Zimmermann and Shuicheng Yan \n
+The European Conference on Computer Vision (ECCV), 2022.
+
+- Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery \n
+Wenmiao Hu, Yichen Zhang, *Yuxuan Liang*, Yifang Yin, Andrei Georgescu, An Tran, Hannes Kruppa, See-Kiong Ng and Roger Zimmermann \n
+ACM Multimedia (MM), 2022.
+
+- Content-Attribute Disentanglement for Generalized Zero-Shot Learning \n
+Yoojin An, Sangyeon Kim, *Yuxuan Liang*, Roger Zimmermann, Dongho Kim and Jihie Kim \n
+IEEE Access, 2022.
+
+- [https://dl.acm.org/doi/pdf/10.1145/3474085.3475268 Learning Multi-context Aware Location Representations from Large-scale Geotagged Images] \n
+Yifang Yin, Ying Zhang, Zhenguang Liu, *Yuxuan Liang*, Sheng Wang, Rajiv Ratn Shah and Roger Zimmermann \n
+ACM Multimedia (MM), 2021.
+
+- [http://urban-computing.com/pdf/TVCG_viscas.pdf Visual Cascade Analytics of Large-scale Spatiotemporal Data] \n
+Zikun Deng, Di Weng, *Yuxuan Liang*, Jie Bao, Yu Zheng, Tobias Schreck, Mingliang Xu and Yingcai Wu \n
+IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), 2021.
+
+
+=== Urban Computing, Spatio-Temporal Data Mining 
 
 - [https://www.ijcai.org/proceedings/2021/0207.pdf Modeling Trajectories with Neural Ordinary Differential Equations] \n
 *Yuxuan Liang*, Kun Ouyang, Hanshu Yan, Yiwei Wang, Zekun Tong and Roger Zimmermann \n
@@ -56,14 +51,6 @@ in Proc. of the 27th International Joint Conference on Artificial Intelligence (
 *Yuxuan Liang*, Zhongyuan Jiang, Yu Zheng \n
 in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS), 2017.
 
-- [http://urban-computing.com/pdf/TVCG_viscas.pdf Visual Cascade Analytics of Large-scale Spatiotemporal Data] \n
-Zikun Deng, Di Weng, *Yuxuan Liang*, Jie Bao, Yu Zheng, Tobias Schreck, Mingliang Xu, and Yingcai Wu \n
-IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), 2021.
-
-- [https://dl.acm.org/doi/pdf/10.1145/3474085.3475268 Learning Multi-context Aware Location Representations from Large-scale Geotagged Images] \n
-Yifang Yin, Ying Zhang, Zhenguang Liu, *Yuxuan Liang*, Sheng Wang, Rajiv Ratn Shah, and Roger Zimmermann \n
-ACM Multimedia (MM), 2021.
-
 - [http://panzheyi.cc/publication/pan2021autostg/paper.pdf AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph] \[[https://github.com/panzheyi/AutoSTG Code]\] \n
 Zheyi Pan, Songyu Ke, Xiaodu Yang, *Yuxuan Liang*, Yong Yu, Junbo Zhang, Yu Zheng \n
 The Web Conference 2021 (WWW), 2021.
@@ -88,10 +75,6 @@ in IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.
 Ye Liu, *Yuxuan Liang*, Kun Ouyang, Shuming Liu, David S. Rosenblum, Yu Zheng \n
 in IEEE Transactions on Big Data (TBD), 2020.
 
-- [https://ieeexplore.ieee.org/document/9207324 Unsupervised Learning of Disentangled Location Embeddings] \n
-Kun Ouyang, *Yuxuan Liang*, Wenzhuo Yang, Ye Liu, David S. Rosenblum \n
-in Proc. of The International Joint Conference on Neural Networks (IJCNN), 2020.
-
 - [http://urban-computing.com/pdf/paper_UbiComp20-Ruan.pdf Dynamic Public Resource Allocation based on Human Mobility Prediction] \n
 Sijie Ruan, Jie Bao, *Yuxuan Liang*, Ruiyuan Li, Tianfu He, Chuishi Meng, Yanhua Li, Yingcai Wu, Yu Zheng \n
 in Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2020.
@@ -108,7 +91,11 @@ in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and D
 Ye Liu, Yu Zheng, *Yuxuan Liang*, Shuming Liu, David S. Rosenblum \n
 in Proc. of the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
-=== Graph Neural Networks
+=== Graph Neural Networks, Machine Learning
+
+- Time-Aware Neighbor Sampling on Temporal Graphs \n
+Yiwei Wang, Yujun Cai, *Yuxuan Liang*, Henghui Ding, Changhu Wang and Bryan Hooi \n
+in Proc. of The International Joint Conference on Neural Networks (IJCNN), 2022.
 
 - [https://proceedings.neurips.cc/paper/2021/file/a3048e47310d6efaa4b1eaf55227bc92-Paper.pdf Directed Graph Contrastive Learning] \n
 Zekun Tong, *Yuxuan Liang*, Henghui Ding, Yongxing Dai, Xinke Li and Changhu Wang \n
@@ -138,12 +125,37 @@ in Proc. of The European Conference on Machine Learning and Principles and Pract
 Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai, Juncheng Liu, Bryan Hooi \n
 in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020.
 
-=== Other Topics
-
 - [http://urban-computing.com/pdf/Federated_Forest_TBD__Final_Version.pdf Federated Forest] \n
 Yang Liu, Yingting Liu, Zhijie Liu, *Yuxuan Liang*, Chuishi Meng, Junbo Zhang, Yu Zheng \n
 in IEEE Transactions on Big Data (TBD), 2020.
 
+- [https://ieeexplore.ieee.org/document/9207324 Unsupervised Learning of Disentangled Location Embeddings] \n
+Kun Ouyang, *Yuxuan Liang*, Wenzhuo Yang, Ye Liu, David S. Rosenblum \n
+in Proc. of The International Joint Conference on Neural Networks (IJCNN), 2020.
+
 - [https://www.ijcai.org/Proceedings/2019/0532.pdf Learning Multi-Objective Rewards and User Utility Function in Contextual Bandits for Personalized Ranking] \n
 Nirandika Wanigasekara, *Yuxuan Liang*, Siong Thye Goh, Ye Liu, Joseph J. Williams, David S. Rosenblum \n
 in Proc. of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019.
+
+
+== Preprints
+
+- [https://arxiv.org/pdf/2108.11873.pdf Spatio-Temporal Graph Contrastive Learning] \n
+Xu Liu\*, *Yuxuan Liang\**, Yu Zheng, Bryan Hooi and Roger Zimmermann (\* indicates equal contribution) \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/abs/2112.06132 PRNet: A Periodic Residual Learning Network for Crowd Flow Forecasting] \n
+Chengxin Wang, *Yuxuan Liang* and Gary Tan \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/pdf/2112.00499.pdf Structure-Aware Label Smoothing for Graph Neural Networks] \n
+Yiwei Wang, Yujun Cai, *Yuxuan Liang*, Wei Wang, Henghui Ding, Muhao Chen, Jing Tang and Bryan Hooi \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/pdf/2112.00499.pdf Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference] \n
+Junfeng Hu, *Yuxuan Liang*, Zhencheng Fan, Yifang Yin, Ying Zhang and Roger Zimmermann \n
+Arxiv preprint, 2021.
+
+- [https://arxiv.org/pdf/2009.10564 Graphcrop: Subgraph cropping for graph classification] \n
+Yiwei Wang, Wei Wang, *Yuxuan Liang*, Yujun Cai and Bryan Hooi \n
+Arxiv preprint, 2020

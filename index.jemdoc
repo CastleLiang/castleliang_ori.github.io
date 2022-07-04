@@ -14,11 +14,21 @@ at 11 Computing Dr, Singapore 117416
 ~~~
 
 == About me
-I am a third-year PhD student at School of Computing, National University of Singapore, supervised by Prof. [https://www.comp.nus.edu.sg/~rogerz/ Roger Zimmermann] and Prof. [https://www.comp.nus.edu.sg/~david/index.html David S. Rosenblum]. I have published some papers in refereed journals and conferences (with 1.3K+ citations), such as TKDE, KDD, NeurIPS, WWW, IJCAI, AAAI, MM and UbiComp. I also serve as a PC member (reviewer) for several top-tier conferences, e.g., KDD, ICML, ICLR, NeurIPS, IJCAI and AAAI. Thanks to the supervision of Prof. [http://urban-computing.com/yuzheng Yu Zheng] and Dr. [https://zhangjunbo.org/ Junbo Zhang], I started my research career at Microsoft Research Asia (MSRA) and graduated from Xidian University. My research interests lie in Spatio-Temporal Data Mining, Urban Computing and Graph Learning.
+I am a final-year PhD student at School of Computing, National University of Singapore, supervised by Prof. [https://www.comp.nus.edu.sg/~rogerz/ Roger Zimmermann] and Prof. [https://www.comp.nus.edu.sg/~david/index.html David S. Rosenblum]. I have published some papers in refereed journals and conferences (with 1.4K+ citations), such as TKDE, KDD, NeurIPS, WWW, ECCV, IJCAI, AAAI, MM and UbiComp. I also serve as a PC member (reviewer) for several top-tier conferences, e.g., KDD, ICML, ICLR, NeurIPS, ECCV, IJCAI and AAAI. Thanks to the supervision of Prof. [http://urban-computing.com/yuzheng Yu Zheng] and Dr. [https://zhangjunbo.org/ Junbo Zhang], I started my research career at Microsoft Research Asia (MSRA) and graduated from Xidian University. I am currently seeking for job opportunities in both academia and industry. If you are interested in my research or hiring me, please feel free to contact me.
+
+== Research interests
+*Spatio-temporal data mining*: forecasting, imputation, AI for social good (e.g., transportation, human mobility, environment, climate).
+
+*Machine Learning*: deep learning, neural ODE, graph learning, self-supervised learning, curriculum learning.
+
+*Computer Vision*: video understanding, image recognition, image/video super-resolution.
+
 
 == News
 
-- \[05-20-2022\] One paper was accepted by KDD'22.
+- \[07-04-2022\] One paper about efficient video transformer was accepted by ECCV'22.
+- \[07-01-2022\] One paper about geo-orientation was accepted by ACM MM'22.
+- \[05-20-2022\] One paper about sequential recommendation was accepted by KDD'22.
 - \[04-15-2022\] Awarded [https://www.cnipa.gov.cn/art/2022/4/15/art_75_174695.html The 23rd China Patent Excellence Award].
 - \[01-03-2022\] Three papers were accepted by NAACL'22, IEEE Access and IJCNN'22.
 - \[02-24-2022\] Two spatio-temporal AI papers ([https://www.ijcai.org/Proceedings/2018/0476.pdf GeoMAN] and [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ijcai16-Zheng-water-quality.pdf stMTMVL]) were selected as [https://www.paperdigest.org/2022/02/most-influential-ijcai-papers-2022-02/ Most Influential IJCAI Papers].
@@ -40,11 +50,11 @@ I am a third-year PhD student at School of Computing, National University of Sin
 - \[Internship\] Reserach Intern @ [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia Microsoft Research], Beijing, China, Dec. 2015 - Sep 2016
 
 == Featured Publications \[[./publications.html See more]\]
-- [https://www.ijcai.org/Proceedings/2018/0476.pdf GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction] \[[https://github.com/yoshall/GeoMAN Code]\] \n
+- [https://www.ijcai.org/Proceedings/2018/0476.pdf GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction] \[[https://github.com/yoshall/GeoMAN Code]\] \[[https://www.paperdigest.org/2022/02/most-influential-ijcai-papers-2022-02/ Most Influential IJCAI Paper]\] \n
 *Yuxuan Liang*, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng \n
-in Proc. of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2018.
+in Proc. of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2018. 
 
-- [http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning] \[[https://github.com/panzheyi/ST-MetaNet Code]\]\n
+- [http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning] \[[https://github.com/panzheyi/ST-MetaNet Code]\] \[[https://www.paperdigest.org/2021/02/most-influential-kdd-papers/ Most Influential KDD Paper]\]\n
 Zheyi Pan, *Yuxuan Liang*, Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang \n
 in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019.
 
@@ -57,6 +67,26 @@ in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and D
 The Web Conference 2021 (WWW), 2021.
 
 == Community Services
-- Conference PC member / Reviewer: NeurIPS'22, KDD'22, ICLR'22, IJCAI'22, AAAI'22, SDM'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
-- Conference External reviewer: KDD'20, IJCAI'19, KDD'19, KDD'18, SDM'18, CIKM'18, KDD'17, CIKM'17, ICDM'16, GIS'16, etc.
+- PC member / Reviewer: NeurIPS'22, KDD'22, ICML'22, ICLR'22, ECCV'22, IJCAI'22, AAAI'22, SDM'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
+- External reviewer: KDD'20, IJCAI'19, KDD'19, KDD'18, SDM'18, CIKM'18, KDD'17, CIKM'17, ICDM'16, GIS'16, etc.
 - Journal reviewer: TKDE, TMC, IMWUT, T-ITS, TIST, TR Part C, IEEE Sensor, etc.
+
+== Collaborators
+I am really honored to work with my best friends (in alphabetical order):
+- [https://sites.google.com/view/chaoh Chao Huang], University of Hong Kong 
+- [https://scholar.google.co.jp/citations?user=CY6FH6YAAAAJ&hl=en Kun Ouyang], Tencent
+- [http://www.sjruan.me/ Sijie Ruan], Xidian University
+- [https://wangywust.github.io/ Yiwei Wang], National University of Singapore
+- [https://zekuntong.com/ Zekun Tong], National University of Singapore
+- [http://panzheyi.cc/ Zheyi Pan], JD.COM
+
+I am also very lucky to collaborate with these talented labmates:
+- [https://scholar.google.com/citations?user=kLMHzqEAAAAJ&hl=en Junfeng Hu], National University of Singapore
+- [http://huwenmiao.net/ Wenmiao Hu], National University of Singapore & Grabtaxi Holding
+- [https://scholar.google.co.jp/citations?hl=en&user=JTzLTycAAAAJ Xu Liu], National University of Singapore
+- [https://yutong-xia.github.io/ Yutong Xia], National University of Singapore
+
+
+
+
+
