@@ -14,7 +14,7 @@ at 11 Computing Dr, Singapore 117416
 ~~~
 
 == About me
-I am a final-year PhD student at School of Computing, National University of Singapore, supervised by Prof. [https://www.comp.nus.edu.sg/~rogerz/ Roger Zimmermann] and Prof. [https://www.comp.nus.edu.sg/~david/index.html David S. Rosenblum]. I have published some papers in refereed journals and conferences (with 1.4K+ citations), such as TKDE, KDD, NeurIPS, WWW, ECCV, IJCAI, AAAI, MM and UbiComp. I also serve as a PC member (reviewer) for several top-tier conferences, e.g., KDD, ICML, ICLR, NeurIPS, ECCV, IJCAI and AAAI. Thanks to the supervision of Prof. [http://urban-computing.com/yuzheng Yu Zheng] and Dr. [https://zhangjunbo.org/ Junbo Zhang], I started my research career at Microsoft Research Asia (MSRA) and graduated from Xidian University. I am currently seeking for job opportunities in both academia and industry. If you are interested in my research or hiring me, please feel free to contact me.
+I am a final-year PhD student at School of Computing, National University of Singapore, supervised by Prof. [https://www.comp.nus.edu.sg/~rogerz/ Roger Zimmermann] and Prof. [https://www.comp.nus.edu.sg/~david/index.html David S. Rosenblum]. I have published some papers in refereed journals and conferences (with 1.5K+ citations), such as TKDE, KDD, NeurIPS, WWW, ECCV, IJCAI, AAAI, MM and UbiComp. I also serve as a PC member (reviewer) for several top-tier conferences, e.g., KDD, ICML, ICLR, NeurIPS, ECCV, IJCAI and AAAI. Thanks to the supervision of Prof. [http://urban-computing.com/yuzheng Yu Zheng] and Dr. [https://zhangjunbo.org/ Junbo Zhang], I started my research career at Microsoft Research Asia (MSRA) and graduated from Xidian University. I am currently seeking for job opportunities in both academia and industry. If you are interested in my research or hiring me, please feel free to contact me.
 
 == Research interests
 - *Spatio-temporal data mining*: forecasting, imputation, AI for social good (e.g., transportation, human mobility, environment, climate).      
@@ -22,6 +22,7 @@ I am a final-year PhD student at School of Computing, National University of Sin
 - *Computer Vision*: video understanding, image recognition, image/video super-resolution.
 
 == News
+- \[08-23-2022\] Two paper (contrastive/periodic learning for ST data) were accepted as full papers by SIGSPATIAL'22.
 - \[08-03-2022\] One paper about trajectory transformer was accepted by CIKM'22.
 - \[07-29-2022\] Honored to receive the Dean's Graduate Award from NUS. Thanks Roger for the nomination and supports!
 - \[07-04-2022\] One paper about efficient video transformer was accepted by ECCV'22.
@@ -39,11 +40,11 @@ I am a final-year PhD student at School of Computing, National University of Sin
 - \[03-18-2021\] Awarded [https://sdsc.sg/?page_id=12274 SDSC Dissertation Research Fellowship] (10 annual quotas for Singapore-based PhD Students).
 
 == Working Experience
-- \[Internship\] Reserach Intern @ [https://sail.sea.com Sea AI Lab (SAIL)], Singapore, Summer 2021
+- \[Intern\] Reserach Intern @ [https://sail.sea.com Sea AI Lab (SAIL)], Singapore, Summer 2021
 - \[FTE\] Research Assistant @ [https://www.nus.edu.sg National University of Singapore], Singapore, Nov 2018 - April 2019
-- \[Internship\] Algorithm Engineer Intern @ [https://icity.jd.com JD.COM], Beijing, China, Jan 2018 - Sep 2018
-- \[Internship\] Reserach Intern @ [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia Microsoft Research], Beijing, China, Jan. 2017 - Jan 2018
-- \[Internship\] Reserach Intern @ [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia Microsoft Research], Beijing, China, Dec. 2015 - Sep 2016
+- \[Intern\] Algorithm Engineer Intern @ [https://icity.jd.com JD.COM], Beijing, China, Jan 2018 - Sep 2018
+- \[Intern\] Reserach Intern @ [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia Microsoft Research], Beijing, China, Jan. 2017 - Jan 2018
+- \[Intern\] Reserach Intern @ [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia Microsoft Research], Beijing, China, Dec. 2015 - Sep 2016
 
 == Featured Publications \[[./publications.html See more]\]
 - [https://www.ijcai.org/Proceedings/2018/0476.pdf GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction] \[[https://github.com/yoshall/GeoMAN Code]\] \[[https://www.paperdigest.org/2022/02/most-influential-ijcai-papers-2022-02/ Most Influential IJCAI Paper]\] \n
@@ -63,7 +64,7 @@ in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and D
 The Web Conference 2021 (WWW), 2021.
 
 == Community Services
-- PC member / Reviewer: NeurIPS'22, KDD'22, ICML'22, ICLR'22, ECCV'22, IJCAI'22, AAAI'22, SDM'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
+- PC member / Reviewer: ICLR'23, AAAI'23, NeurIPS'22, KDD'22, ICML'22, ICLR'22, ECCV'22, IJCAI'22, AAAI'22, SDM'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
 - External reviewer: KDD'20, IJCAI'19, KDD'19, KDD'18, SDM'18, CIKM'18, KDD'17, CIKM'17, ICDM'16, GIS'16, etc.
 - Journal reviewer: TKDE, TMC, IMWUT, T-ITS, TIST, TR Part C, IEEE Sensor, etc.
 
