@@ -1,30 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
-== Peer-reviewed Papers
-=== Computer Vision, Graphics
-
-- DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition \n
-*Yuxuan Liang*, Pan Zhou, Roger Zimmermann and Shuicheng Yan \n
-The European Conference on Computer Vision (ECCV), 2022.
-
-- Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery \n
-Wenmiao Hu, Yichen Zhang, *Yuxuan Liang*, Yifang Yin, Andrei Georgescu, An Tran, Hannes Kruppa, See-Kiong Ng and Roger Zimmermann \n
-ACM Multimedia (MM), 2022.
-
-- Content-Attribute Disentanglement for Generalized Zero-Shot Learning \n
-Yoojin An, Sangyeon Kim, *Yuxuan Liang*, Roger Zimmermann, Dongho Kim and Jihie Kim \n
-IEEE Access, 2022.
-
-- [https://dl.acm.org/doi/pdf/10.1145/3474085.3475268 Learning Multi-context Aware Location Representations from Large-scale Geotagged Images] \n
-Yifang Yin, Ying Zhang, Zhenguang Liu, *Yuxuan Liang*, Sheng Wang, Rajiv Ratn Shah and Roger Zimmermann \n
-ACM Multimedia (MM), 2021.
-
-- [http://urban-computing.com/pdf/TVCG_viscas.pdf Visual Cascade Analytics of Large-scale Spatiotemporal Data] \n
-Zikun Deng, Di Weng, *Yuxuan Liang*, Jie Bao, Yu Zheng, Tobias Schreck, Mingliang Xu and Yingcai Wu \n
-IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), 2021.
-
-
+== Peer-reviewed Papers (by categories)
 === Urban Computing, Spatio-Temporal Data Mining 
 - TrajFormer: Efficient Trajectory Classification with Transformers \n
 *Yuxuan Liang*, Kun Ouyang, Yiwei Wang, Xu Liu, Hongyang Chen, Junbo Zhang, Yu Zheng and Roger Zimmermann \n
@@ -54,7 +31,7 @@ in Proc. of the 27th International Joint Conference on Artificial Intelligence (
 *Yuxuan Liang*, Zhongyuan Jiang, Yu Zheng \n
 in Proc. of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS), 2017.
 
-- Spatio-Temporal Graph Contrastive Learning \n
+- When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting? \n
 Xu Liu\*, *Yuxuan Liang\**, Chao Huang, Yu Zheng, Bryan Hooi and Roger Zimmermann (\* indicates equal contribution) \n
 in Proc. of the 30th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS), 2022.
 
@@ -102,7 +79,32 @@ in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and D
 Ye Liu, Yu Zheng, *Yuxuan Liang*, Shuming Liu, David S. Rosenblum \n
 in Proc. of the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
-=== Graph Neural Networks, Machine Learning
+=== Computer Vision, Graphics
+
+- DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition \n
+*Yuxuan Liang*, Pan Zhou, Roger Zimmermann and Shuicheng Yan \n
+The European Conference on Computer Vision (ECCV), 2022.
+
+- Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery \n
+Wenmiao Hu, Yichen Zhang, *Yuxuan Liang*, Yifang Yin, Andrei Georgescu, An Tran, Hannes Kruppa, See-Kiong Ng and Roger Zimmermann \n
+ACM Multimedia (MM), 2022.
+
+- Content-Attribute Disentanglement for Generalized Zero-Shot Learning \n
+Yoojin An, Sangyeon Kim, *Yuxuan Liang*, Roger Zimmermann, Dongho Kim and Jihie Kim \n
+IEEE Access, 2022.
+
+- [https://dl.acm.org/doi/pdf/10.1145/3474085.3475268 Learning Multi-context Aware Location Representations from Large-scale Geotagged Images] \n
+Yifang Yin, Ying Zhang, Zhenguang Liu, *Yuxuan Liang*, Sheng Wang, Rajiv Ratn Shah and Roger Zimmermann \n
+ACM Multimedia (MM), 2021.
+
+- [http://urban-computing.com/pdf/TVCG_viscas.pdf Visual Cascade Analytics of Large-scale Spatiotemporal Data] \n
+Zikun Deng, Di Weng, *Yuxuan Liang*, Jie Bao, Yu Zheng, Tobias Schreck, Mingliang Xu and Yingcai Wu \n
+IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), 2021.
+
+=== Graph Neural Networks, Recommendation System
+- Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation \n
+Yuhao Yang, Chao Huang, Lianghao Xia, *Yuxuan Liang*, Yanwei Yu and Chenliang Li \n
+in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2022.
 
 - Time-Aware Neighbor Sampling on Temporal Graphs \n
 Yiwei Wang, Yujun Cai, *Yuxuan Liang*, Henghui Ding, Changhu Wang and Bryan Hooi \n
