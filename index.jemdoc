@@ -14,7 +14,9 @@ at 11 Computing Dr, Singapore 117416
 ~~~
 
 == About me
-I am a final-year PhD student at School of Computing, National University of Singapore, supervised by Prof. [https://www.comp.nus.edu.sg/~rogerz/ Roger Zimmermann] and Prof. [https://www.comp.nus.edu.sg/~david/index.html David S. Rosenblum]. I have published some papers in refereed journals and conferences (with 1.5K+ citations), such as TKDE, KDD, NeurIPS, WWW, ECCV, IJCAI, AAAI, MM and UbiComp. I also serve as a PC member (reviewer) for several top-tier conferences, e.g., KDD, ICML, ICLR, NeurIPS, ECCV, IJCAI and AAAI. Thanks to the supervision of Prof. [http://urban-computing.com/yuzheng Yu Zheng] and Dr. [https://zhangjunbo.org/ Junbo Zhang], I started my research career at Microsoft Research Asia (MSRA) and graduated from Xidian University. I am currently seeking for job opportunities in both academia and industry. If you are interested in my research or hiring me, please feel free to contact me.
+I am a final-year PhD student at School of Computing, National University of Singapore, supervised by Prof. [https://www.comp.nus.edu.sg/~rogerz/ Roger Zimmermann] and Prof. [https://www.comp.nus.edu.sg/~david/index.html David S. Rosenblum]. I have published over 30 papers in refereed journals and conferences (with 1.5K+ citations), such as TKDE, KDD, NeurIPS, WWW, ECCV, IJCAI, AAAI, MM and UbiComp. I also serve as a PC member (reviewer) for several top-tier conferences, e.g., KDD, ICML, ICLR, NeurIPS, WWW, ECCV, IJCAI and AAAI. Thanks to the supervision of Prof. [http://urban-computing.com/yuzheng Yu Zheng] and Dr. [https://zhangjunbo.org/ Junbo Zhang], I started my research career at Microsoft Research Asia (MSRA) and graduated from Xidian University. I have been recognized as 1 out of 10 most innovative and impactful PhD students focusing on Data Science in Singapore by the Singapore Data Science Consortium (SDSC) in 2020.
+
+I am currently seeking for job opportunities in both academia and industry. If you are interested in my research or hiring me, please feel free to contact me.
 
 == Research interests
 - *Spatio-temporal data mining*: forecasting, imputation, AI for social good (e.g., transportation, human mobility, environment, climate).      
@@ -22,6 +24,7 @@ I am a final-year PhD student at School of Computing, National University of Sin
 - *Computer Vision*: video understanding, image recognition, image/video super-resolution.
 
 == News
+- \[09-22-2022\] Invited to join the Program Committee of WWW'23. Please consider submit your paper to the [https://www2023.thewebconf.org/calls/research-tracks/systems-infrasture/ mobile web track].
 - \[08-23-2022\] Two paper (contrastive/periodic learning for ST data) were accepted as full papers by SIGSPATIAL'22.
 - \[08-03-2022\] One paper about trajectory transformer was accepted by CIKM'22.
 - \[07-29-2022\] Honored to receive the Dean's Graduate Award from NUS. Thanks Roger for the nomination and supports!
@@ -63,9 +66,8 @@ in Proc. of The ACM SIGKDD International Conference on Knowledge Discovery and D
 *Yuxuan Liang*, Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum and Roger Zimmermann \n
 The Web Conference 2021 (WWW), 2021.
 
-== Community Services
-- PC member / Reviewer: ICLR'23, AAAI'23, NeurIPS'22, KDD'22, ICML'22, ICLR'22, ECCV'22, IJCAI'22, AAAI'22, SDM'22, NeurIPS'21, KDD'21, ICML'21, ICLR'21, AAAI'21, NeurIPS'20, AAAI'20, ECML-PKDD'20, etc.
-- External reviewer: KDD'20, IJCAI'19, KDD'19, KDD'18, SDM'18, CIKM'18, KDD'17, CIKM'17, ICDM'16, GIS'16, etc.
+== Community Services \[[./experiences.html See more]\]
+- Program committee member: KDD, ICLR, NeurIPS, ICML, WWW, ECCV, IJCAI, AAAI, etc.
 - Journal reviewer: TKDE, TMC, IMWUT, T-ITS, TIST, TR Part C, IEEE Sensor, etc.
 
 == Collaborators
