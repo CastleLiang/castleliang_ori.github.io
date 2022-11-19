@@ -4,6 +4,10 @@
 == Peer-reviewed Papers (by categories)
 === Urban Computing, Spatio-Temporal Data Mining 
 
+- AirFormer: Predicting Nationwide Air Quality in China with Transformers \n
+*Yuxuan Liang*, Yutong Xia, Songyu Ke, Yiwei Wang, Qingsong Wen, Junbo Zhang, Yu Zheng and Roger Zimmermann \n
+in Proc. of The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
 - Mixed-Order Relation-Aware Recurrent Neural Networks for Spatio-Temporal Forecasting \n
 *Yuxuan Liang*, Kun Ouyang, Yiwei Wang, Zheyi Pan, Yifang Yin, Hongyang Chen, Junbo Zhang, Yu Zheng, David S. Rosenblum and Roger Zimmermann \n
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.
@@ -86,7 +90,7 @@ in Proc. of the 25th International Joint Conference on Artificial Intelligence (
 
 === Computer Vision, Graphics
 
-- [https://dl.acm.org/doi/abs/10.1007/978-3-031-19830-4_33 DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition] \[[https://github.com/sail-sg/dualformer Code]\]\n \n
+- [https://dl.acm.org/doi/abs/10.1007/978-3-031-19830-4_33 DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition] \[[https://github.com/sail-sg/dualformer Code]\]\n
 *Yuxuan Liang*, Pan Zhou, Roger Zimmermann and Shuicheng Yan \n
 The European Conference on Computer Vision (ECCV), 2022.
 
